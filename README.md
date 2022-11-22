@@ -2,7 +2,6 @@
 
 # Hi! I'm Fr0g :wave:
 
-O
 I am graduated in cyber defense with focus on espionage, I work in the front line defense of a multinational company. 
 
 I have a more offensive profile but throughout my career I have conducted awareness training and architected defense strategies for several organizations.
