@@ -1,1 +1,1 @@
-[![Banner](imagens/banner.png)]()
+[![Banner](img/banner.jpg)]()
